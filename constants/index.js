@@ -248,4 +248,4 @@ export const TOKEN_CONTRACT_ABI = [
 		"stateMutability": "view",
 		"type": "function"
 	}
-];
+]
